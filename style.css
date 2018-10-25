@@ -50,7 +50,7 @@ body,
 button,
 input,
 select,
-textarea { font-family: 'Poppins', sans-serif; font-weight: 400; color: #8b93a2; font-size: 14px; line-height: 1.9; background-color: #fff; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility; overflow-x: hidden; overflow-y: auto; }
+textarea { font-family: 'Poppins', sans-serif; font-weight: 400; color: #fff; font-size: 14px; line-height: 1.9; background-color: #fff; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility; overflow-x: hidden; overflow-y: auto; }
 img { height: auto; max-width: 100%; width: 100%; vertical-align: top; -ms-interpolation-mode: bicubic }
 p { margin: 0 0 20px; }
 strong,
@@ -591,10 +591,10 @@ body.menu-has-search #site-header #main-nav { right: 34px; }
 
 /* Re-style for header 1 */
 body.header-style-1 #site-header-wrap { position: absolute; top: 0; left: 0; width: 100%; z-index: 999; }
-body.header-style-1 #site-header { background-color: transparent; }
-body.header-style-1 #site-header:after { content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background-color: #000; opacity: 0.2; border-bottom: 1px solid #e3e3e3; }
+body.header-style-1 #site-header { background-color: #fff; }
+body.header-style-1 #site-header:after { content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background-color: #000; opacity: 0.2; border-bottom: 1px solid #fff; }
 body.header-style-1 #site-header #main-nav > ul > li > a,
-body.header-style-1 #site-header #header-search .header-search-icon { color: #fff; }
+body.header-style-1 #site-header #header-search .header-search-icon { color: #1C0E0A; }
 body.header-style-1 #site-header #main-nav > ul > li:hover > a,
 body.header-style-1 #site-header #header-search .header-search-icon:hover { color: #4EB0CB; }
 
