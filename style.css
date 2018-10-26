@@ -50,7 +50,7 @@ body,
 button,
 input,
 select,
-textarea { font-family: 'Poppins', sans-serif; font-weight: 400; color: #fff; font-size: 14px; line-height: 1.9; background-color: #fff; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility; overflow-x: hidden; overflow-y: auto; }
+textarea { font-family: 'Poppins', sans-serif; font-weight: 400; color: #656565; font-size: 14px; line-height: 1.9; background-color: #fff; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility; overflow-x: hidden; overflow-y: auto; }
 img { height: auto; max-width: 100%; width: 100%; vertical-align: top; -ms-interpolation-mode: bicubic }
 p { margin: 0 0 20px; }
 strong,
