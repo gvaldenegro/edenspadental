@@ -245,7 +245,7 @@
 .wprt-image-box .item .simple-link { display: inline-block; margin-top: 10px; color: #c5c5c5; position: relative; }
 .wprt-image-box .item .simple-link:after { content: ""; position: absolute; left: 0; bottom: 2px; width: 0; height: 2px; background-color: #ffb600; -webkit-transition: all ease 0.3s; -moz-transition: all ease 0.3s; transition: all ease 0.3s; }
 .wprt-image-box .item .simple-link:hover:after { width: 100%; }
-.wprt-image-box .item .text-wrap .position { color: #448aff;  }
+.wprt-image-box .item .text-wrap .position { color: #4EB0CB;  }
 .wprt-image-box .wprt-button { margin: 10px 0 0; }
 
 /* style 1 */
