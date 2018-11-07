@@ -554,7 +554,7 @@ body.header-style-1 #top-bar:after { background-color: #000; filter: alpha(opaci
 #main-nav ul ul ul { top: 0; left: 108%; }
 /* Hover */
 #main-nav ul li:hover > ul { -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; filter: alpha(opacity=100); opacity: 1; visibility: visible; -webkit-transition: all ease .238s; -moz-transition: all ease .238s; transition: all ease .238s; -webkit-transform: translateX(0px); -moz-transform: translateX(0px); transform: translateX(0px); }
-#main-nav ul ul li:hover > a { color: #fff; background-color: #448aff; }
+#main-nav ul ul li:hover > a { color: #fff; background-color: #8DC5CC; }
 
 #main-nav > ul > li.menu-item-has-children > a { position: relative; padding-right: 13px; }
 #main-nav > ul > li.menu-item-has-children > a:after,
