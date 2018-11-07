@@ -610,13 +610,13 @@ body.header-style-2 #site-header.is-fixed:after { opacity: 1; }
 /* Featured Title
 -------------------------------------------------------------- */
 #featured-title { background: url(assets/img/bg-page-title.jpg) no-repeat center center; }
-#featured-title-inner { padding: 110px 0; }
+#featured-title-inner { padding: 50px 0; }
 #featured-title .featured-title-heading { margin: 0; font-size: 36px; font-weight: 500; letter-spacing: 1px; color: #fff; text-transform: uppercase; }
 #featured-title  #breadcrumbs { color: #4EB0CB; }
 #featured-title  #breadcrumbs a { color: #fff; }
 #featured-title  #breadcrumbs a:hover { color: #8DC5CC; }
 
-body.header-style-1 #featured-title-inner { padding-top: 200px }
+body.header-style-1 #featured-title-inner { padding-top: 150px }
 
 
 
@@ -763,7 +763,7 @@ body.header-style-1 #featured-title-inner { padding-top: 200px }
 #footer-widgets .widget.widget_recent_news ul li .texts h3 a { color: #0d1a2f; letter-spacing: 0.5px; }
 #footer-widgets .widget.widget_recent_news ul li .texts h3 a { color: #8B93A2 }
 #sidebar .widget.widget_recent_news ul li .texts h3:hover a { color: #448aff; }
-#footer-widgets .widget.widget_recent_news ul li .texts h3:hover a { color: #fff; }
+#footer-widgets .widget.widget_recent_news ul li .texts h3:hover a { color: #4EB0CB; }
 #sidebar .widget.widget_recent_news ul li .texts .post-date,
 #footer-widgets .widget.widget_recent_news ul li .texts .post-date { font-size: 14px; line-height: 26px; color: #707070; font-style: italic; }
 #footer-widgets .widget.widget_recent_news ul li .texts .post-date { color: #4EB0CB; }
@@ -885,4 +885,22 @@ body.header-style-1 #featured-title-inner { padding-top: 200px }
 	#bottom .bottom-bar-content,
 	#bottom .bottom-bar-menu { width: 100%; display: block; text-align: center; }
 	#bottom .bottom-bar-content { margin-bottom: 10px; }
+}
+
+span.btn-solicitar-atencion {
+	background: #4EB0CB;
+	padding: 18px 25px;
+	border-radius: 3px;
+	color: white;
+  -webkit-appearance: none;
+  -webkit-transition: all ease .238s;
+  -moz-transition: all ease .238s;
+  transition: all ease .238s;
+}
+span.btn-solicitar-atencion:hover {
+	background: #000000;
+	color: white;
+}
+.text-eden {
+	color: #8DC5CC;
 }
