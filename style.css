@@ -611,7 +611,7 @@ body.header-style-2 #site-header.is-fixed:after { opacity: 1; }
 -------------------------------------------------------------- */
 #featured-title { background: url(assets/img/bg-page-title.jpg) no-repeat center center; }
 #featured-title-inner { padding: 50px 0; }
-#featured-title .featured-title-heading { margin: 0; font-size: 36px; font-weight: 500; letter-spacing: 1px; color: #fff; text-transform: uppercase; }
+#featured-title .featured-title-heading { margin: 0; font-size: 36px; font-weight: 500; letter-spacing: 1px; color: #4EB0CB; text-transform: uppercase; }
 #featured-title  #breadcrumbs { color: #4EB0CB; }
 #featured-title  #breadcrumbs a { color: #fff; }
 #featured-title  #breadcrumbs a:hover { color: #8DC5CC; }
