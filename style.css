@@ -904,3 +904,8 @@ span.btn-solicitar-atencion:hover {
 .text-eden {
 	color: #8DC5CC;
 }
+
+.stroke {
+-webkit-text-fill-color: #4EB0CB;
+-webkit-text-stroke: 1px White;
+}
