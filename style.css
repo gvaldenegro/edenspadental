@@ -909,3 +909,6 @@ span.btn-solicitar-atencion:hover {
 -webkit-text-fill-color: #4EB0CB;
 -webkit-text-stroke: 1px White;
 }
+.wprt-counter .ns-small {
+	font-size: 16px;
+}
