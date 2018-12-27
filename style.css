@@ -609,7 +609,7 @@ body.header-style-2 #site-header.is-fixed:after { opacity: 1; }
 
 /* Featured Title
 -------------------------------------------------------------- */
-#featured-title { background: url(assets/img/bg-page-title.jpg) no-repeat center center; }
+#featured-title { background: url(assets/img/bg-page-title.jpg) no-repeat center center; border-bottom: 3px solid #4EB0CB; }
 #featured-title-inner { padding: 50px 0; }
 #featured-title .featured-title-heading { margin: 0; font-size: 36px; font-weight: 500; letter-spacing: 1px; color: #4EB0CB; text-transform: uppercase; }
 #featured-title  #breadcrumbs { color: #4EB0CB; }
@@ -911,4 +911,22 @@ span.btn-solicitar-atencion:hover {
 }
 .wprt-counter .ns-small {
 	font-size: 16px;
+}
+.wprt-menu-list .value {
+	float: left;
+	padding-left: 20px;
+}
+.otros-productos, .otras-especialidades {
+	color: #ffffff;
+}
+.otros-productos:hover, .otras-especialidades:hover {
+	color: #ffffff;
+	font-weight: bold;
+}
+.a-texto {
+	color: #7e7e7e;
+}
+.row-evaluacion {
+	padding-top: 20px;
+	padding-bottom: 40px;
 }
