@@ -224,5 +224,6 @@
         ajaxContactForm();
         preLoader();
         scrollToTop();
+        // $('#modalPopup').modal('show');
     });
 })(jQuery);

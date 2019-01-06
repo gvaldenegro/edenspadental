@@ -930,3 +930,9 @@ span.btn-solicitar-atencion:hover {
 	padding-top: 20px;
 	padding-bottom: 40px;
 }
+.top-bar-nav li {
+	padding-left: 20px;
+}
+.wprt-image-box .item .desc {
+	margin-bottom: 30px;
+}
